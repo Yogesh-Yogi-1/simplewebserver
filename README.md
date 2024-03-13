@@ -117,7 +117,8 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot 2024-03-12 190612.png>)
+![image](https://github.com/Yogesh-Yogi-1/simplewebserver/assets/148514598/7c5c8287-139e-4d28-bc55-9155d6b38ed4)
+
 
 ![Screenshot 2024-03-13 155548](https://github.com/Yogesh-Yogi-1/simplewebserver/assets/148514598/cd41e8d5-d5a2-422b-87e9-42ea054829f4)
 
